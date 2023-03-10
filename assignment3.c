@@ -2,7 +2,10 @@
 #include <unistd.h>
 #include <stdio.h>
 #include <string.h>
-
+//Haziq Ahmed
+//Adeel 
+// Arham
+//Tayab
 // state counter (THis specifies the index where new state should be added)
 int state_counter = 0;
 char state_list[100][100][100] = {{'\0'}}; // This variable is used to store chronicles of a grammer. The index value specifies the states
